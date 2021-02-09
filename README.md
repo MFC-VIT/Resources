@@ -38,19 +38,19 @@
     <img src="https://user-images.githubusercontent.com/59278577/107159556-dc8b1980-69b6-11eb-80d3-e4ba41546ae5.png" alt="Logo">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Resources</h3>
 
   <p align="center">
-    project_description
+    One spot for all learning resources
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MFC-VIT/Resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name">View Demo</a>
+    <a href="https://github.com/MFC-VIT/Resources">View Demo</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MFC-VIT/Resources/issues">Report Bug</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MFC-VIT/Resources/issues">Request Feature</a>
   </p>
 </p>
 
@@ -60,22 +60,13 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -83,13 +74,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-### Built With
-
-- []()
-- []()
-- []()
+This repository is for all the developers who wants resources for various topics like ML, Data Structures, App Dev, Web Dev etc. We will try to add all available resources here. If you want to add your resources which you think can be useful for others than feel free to contribute ;)
 
 <!-- GETTING STARTED -->
 
@@ -97,39 +82,15 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/th3c0d3br34ker/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
+1. Fork this repository
+2. Clone this repository using: 
+ ```
+ git clone https://github.com/MFC-VIT/Resources.git
+ ```
 
 ## Roadmap
 
-See the [open issues](https://github.com/th3c0d3br34ker/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MFC-VIT/Resources/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -149,29 +110,21 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- []()
-- []()
-- []()
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/MFC-VIT/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/MFC-VIT/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MFC-VIT/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/MFC-VIT/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/MFC-VIT/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/MFC-VIT/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MFC-VIT/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/MFC-VIT/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/MFC-VIT/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/MFC-VIT/repo_name/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/MFC-VIT/repo_name?style=for-the-badge
-[made-with-url]: https://shields.io/github/languages/top/MFC-VIT/repo_name.svg?style-for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/MFC-VIT/Resources.svg?style=for-the-badge
+[contributors-url]: https://github.com/MFC-VIT/Resources/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MFC-VIT/Resources.svg?style=for-the-badge
+[forks-url]: https://github.com/MFC-VIT/Resources/network/members
+[stars-shield]: https://img.shields.io/github/stars/MFC-VIT/Resources.svg?style=for-the-badge
+[stars-url]: https://github.com/MFC-VIT/Resources/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MFC-VIT/Resources.svg?style=for-the-badge
+[issues-url]: https://github.com/MFC-VIT/Resources/issues
+[license-shield]: https://img.shields.io/github/license/MFC-VIT/Resources.svg?style=for-the-badge
+[license-url]: https://github.com/MFC-VIT/Resources/blob/master/LICENSE.txt
+[made-with-shield]: https://img.shields.io/github/languages/top/MFC-VIT/Resources?style=for-the-badge
+[made-with-url]: https://shields.io/github/languages/top/MFC-VIT/Resources.svg?style-for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/mozilla-firefox-club-vit/mycompany/
 [product-screenshot]: images/screenshot.png
